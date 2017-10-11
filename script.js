@@ -80,3 +80,12 @@ var mayella = new Employees("Mayella", "89068",35000, 2 );
 
 
 // console.log(findBonus(employees));
+
+let makeIntoBizz = (employee) => {
+    employee.name = 'bizz';
+}
+
+const keepItReal = "stayyyy";
+
+let stayOrGo = (canopanoid) => {return keepItReal;}
+
